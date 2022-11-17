@@ -1,2 +1,2 @@
 # Python_math
-Use python to solve math problems
+Use python to solve math problems.
